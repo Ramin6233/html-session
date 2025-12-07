@@ -104,12 +104,3 @@ print("Division of two numbers is: ", div(num1,num2))
 print("Thank you for using this calculator")
 
 
-import turtle
-turtle.Screen().bgcolor("Orange")
-sc= turtle.Screen()
-sc.title("Welcome to my first turtle program")
-board=turtle.Turtle()
-for i in range(4):
-    board.forward(100)
-    board.left(90)
-    i = i+1
