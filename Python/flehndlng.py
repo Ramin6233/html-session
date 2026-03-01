@@ -17,3 +17,5 @@ file_append = open("codingal.txt", "a")
 file_append.write("\n File in append mode ....")
 file_append.write("Hi! I am Penguin. I am 1 yr. old")
 file_append.close()
+
+
